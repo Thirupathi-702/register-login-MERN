@@ -1,5 +1,5 @@
 ##to run frontend> cd frontend
-##>npm install
+##*>npm install
 ##>npm run dev
 ##to run backend>cd..
 ##>cd backend
