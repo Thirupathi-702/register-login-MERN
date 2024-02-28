@@ -1,4 +1,4 @@
-to run frontend> cd frontend
+##to run frontend> cd frontend
 >npm install
 >npm run dev
 to run backend>cd..
@@ -6,4 +6,4 @@ to run backend>cd..
 >npm install
 >node index.js
 #for auto save update>
->nodemon index.js
+nodemon index.js
